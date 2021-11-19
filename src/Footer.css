@@ -1,0 +1,16 @@
+/* .footer-row { background-image: url(); background-color: rgba(0,0,0,0.8); } */
+.footer { background-image: linear-gradient(rgb(0 0 0 / 80%), rgb(0 0 0 / 80%)), url(https://www.insightstree.com/wp-content/uploads/2019/10/Footer-Background.jpg); background-repeat: no-repeat; background-position: center; background-size: cover; }
+.footer-description { color: #fff; font-size: 14px; }
+.widget-title { font-size: 18px; border-bottom: 1px solid; border-bottom-color: rgba(255,255,255,0.50); color: #fff; }
+.footer-element { padding-top: 50px; padding-bottom: 50px; }
+.footer-logo { padding-bottom: 20px; }
+.contact-item { color: #fff; padding: 5px 0; font-size: 14px; }
+.menu-item a { color: #fff; font-size: 14px; }
+ul#menu-social-media-marketing-services { padding-left: 0; }
+li.menu-item.menu-item-type-post_type.menu-item-object-page { padding: 5px 0; border-bottom: 1px solid #c2c2c250; }
+.copyright { font-size: 14px; }
+p.copyright-text { margin: 5px; text-align: center; }
+.footer-element li { list-style-type: none; }
+.footer-element a { color: #ffffff; }
+.footer-element a:hover { color: #c2c2c2; text-decoration: none; }
+.footer-logo { color: #fff; font-size: 24px; font-weight: 600; }

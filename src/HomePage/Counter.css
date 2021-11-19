@@ -1,0 +1,5 @@
+.animated-digit-box.skin-primary { background-color: rgb(63 107 190 / 15%); }
+.animated-digit-box { margin-bottom: 30px; padding: 50px 25px; border-radius: 4px; text-align: center; -ms-word-wrap: break-word; word-wrap: break-word; }
+.animated-digit-box.skin-primary .animated-digit { color: #3f6bbe; }
+.animated-digit-box .animated-digit { font-size: 60px; font-weight: 300; }
+.animated-digit-box .description { margin: 10px 0 0; color: #b9b9b9; font-size: 18px; }
